@@ -1,9 +1,7 @@
-public class Dev 
-{
+public class Vasu {
     public static void main(String arg[])
     {
 
-System.out.println("AKANKSAA");
+System.out.println("vasu");
     }
-
 }
